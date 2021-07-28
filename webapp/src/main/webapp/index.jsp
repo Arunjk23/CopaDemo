@@ -1,4 +1,4 @@
-<body style="background-color:LightGrey;">
+<body style="background-color:Grey;">
 
 <head>
 <style>
